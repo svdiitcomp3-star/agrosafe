@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "AgroSafe V1",
+    "description": "Basic crop protection system",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "name": "AgroSafe V2",
+    "description": "Advanced version with automation",
+    "price": 1999
+  },
+  {
+    "id": 3,
+    "name": "AgroSafe V3",
+    "description": "Premium AI + IoT version",
+    "price": 2999
+  }
+]
